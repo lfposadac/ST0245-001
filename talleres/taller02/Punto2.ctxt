@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Punto2
+comment0.text=\r\n\ Algoritmo\ para\ determinar\ si\ exite\ o\ no\ existe\ un\ subgrupo\ de\ elementos\ cuya\ suma\ sea\ igual\ al\ peso\ maximo.\r\n\ \r\n\ @author\ (Luis\ Fernando\ Posada\ Cano,Juan\ Pablo\ Giraldo\ Ramirez)\ \r\n\ @version\ (07/08/2020)\r\n
+comment1.params=start\ nums\ target
+comment1.target=boolean\ SumaGrupo(int,\ int[],\ int)
+numComments=2

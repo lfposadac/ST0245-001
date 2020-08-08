@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Punto1
+comment0.text=\r\n\ Algoritmo\ de\ euclides\ de\ forma\ recursiva.\r\n\ \r\n\ @author\ (Luis\ Fernando\ Posada\ Cano,\ Juan\ Pablo\ Giraldo\ Ramirez)\ \r\n\ @version\ (07/08/2020)\r\n
+comment1.params=p\ q
+comment1.target=int\ gcd(int,\ int)
+numComments=2

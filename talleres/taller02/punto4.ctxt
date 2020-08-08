@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=punto4
+comment0.text=\r\n\ \ Algoritmo\ para\ calcular\ la\ subsecuencia\ com\u00FAn\ m\u00E1s\ larga\ a\ dos\ cadenas\ de\ caracteres.\r\n\ \r\n\ @author\ (Juan\ Pablo\ Giraldo\ Ramirez,\ Luis\ Fernando\ Posada\ Cano)\ \r\n\ @version\ (07/08/2020)\r\n
+comment1.params=subSe1\ subSe2
+comment1.target=int\ main(java.lang.String,\ java.lang.String)
+comment2.params=subSe1\ subSe2\ contador\ index
+comment2.target=int\ subsecuencia(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=s\ index
+comment3.target=java.lang.String\ idk(java.lang.String,\ int)
+numComments=4
