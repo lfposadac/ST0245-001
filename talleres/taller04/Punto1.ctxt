@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Punto1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Punto1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=int\ maximo(int[])
+comment2.params=a\ lon
+comment2.target=int\ maximo(int[],\ int)
+numComments=3
