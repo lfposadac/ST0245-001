@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Punto1a
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Punto1a\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=void\ insertionSort(int[])
+comment2.params=a
+comment2.target=void\ cicloVerdeDeGeegForGeeks(int[])
+comment3.params=a\ indiceRojo
+comment3.target=void\ cicloRojoDeGeekForGeeks(int[],\ int)
+comment4.params=a\ izquierda\ derecha
+comment4.target=void\ intercambiar(int[],\ int,\ int)
+comment5.params=a\ izquierda\ derecha
+comment5.target=void\ bailecito(int[],\ int,\ int)
+numComments=6
