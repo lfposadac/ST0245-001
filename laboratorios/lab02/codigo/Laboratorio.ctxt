@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Laboratorio
+comment0.text=\r\nEsta\ clase\ contiene\ los\ algoritmos\ merge\ sort\ e\ insertion\ sort,\ los\ cuales\ fueron\ propuestos\ en\ el\ Laboratorio\ 2.\r\n@author\ Luis\ Fernando\ Posada\ Cano\ y\ Juan\ Pablo\ Giraldo\ Ramirez\r\n@version\ 06/09/2020\r\n
+comment1.params=a
+comment1.target=void\ mergeSort(int[])
+comment1.text=\r\nEste\ m\u00E9todo\ permite\ ordenar\ un\ arreglo\ empleando\ el\ concepto\ de\ divide\ y\ vencer\u00E1s.\ \r\n@param\ int[]\ a\ arreglo\ que\ se\ organizar\u00E1.\ \r\n@see\ merge(int[]\ a,\ int[]\ a1,\ int[]\ a2,\ int\ izq,\ int\ der)\r\n
+comment2.params=a\ a1\ a2\ izq\ der
+comment2.target=void\ merge(int[],\ int[],\ int[],\ int,\ int)
+comment2.text=\ \r\nEste\ m\u00E9todo\ compacta\ los\ arreglos\ que\ se\ separan\ en\ el\ m\u00E9todo\ mergSort(int\ []\ a)\ en\ un\ solo\ arreglo\ y\ \ luego\ se\ realizan\ las\ comparaciones\r\ncorrespondientes\ para\ ordenarlo.\r\n\ @param\ int[]a\ arreglo\ original.\r\n\ @param\ int[]a1\ primera\ mitad\ del\ arreglo\ separado.\r\n\ @param\ int[]a2\ segunda\ mitad\ del\ arreglo\ separado.\r\n\ @param\ int\ izq\ longitud\ del\ arreglo\ a1.\r\n\ @param\ int\ der\ longitud\ del\ arreglo\ a2.\r\n
+comment3.params=array
+comment3.target=void\ insertionSort(int[])
+comment3.text=\r\n\ Este\ m\u00E9todo\ se\ utiliza\ para\ organizar\ un\ arreglo\ comparando\ si\ el\ elemento\ a\ organizar\ es\ mayor\ que\ los\ elementos\ anteriores.\r\n\ para\ determinar\ su\ posici\u00F3n\ para\ que\ quede\ en\ orden.\r\n\ @param\ int\ []\ array\ arreglo\ que\ se\ organizar\u00E1\r\n
+comment4.params=array\ m\ n
+comment4.target=void\ swap(int[],\ int,\ int)
+comment4.text=\r\n\ Este\ m\u00E9todo\ permite\ intercambiar\ de\ posici\u00F3n\ los\ elementos\ de\ un\ arreglo.\r\n\ @param\ int\ []\ array\ arreglo\ donde\ est\u00E1n\ los\ valores\ principales\ a\ cambiar.\r\n\ @param\ int\ m\ posici\u00F3n\ del\ primer\ elemento.\ \r\n\ @param\ int\ n\ posici\u00F3n\ del\ segundo\ elemento\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\nEste\ m\u00E9todo\ permite\ tomar\ el\ tiempo\ de\ ejecuci\u00F3n\ de\ cualquiera\ de\ los\ algoritmos.\r\n
+numComments=6
