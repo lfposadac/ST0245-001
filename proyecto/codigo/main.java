@@ -18,7 +18,7 @@ public class main
         long finalT = System.currentTimeMillis();
         System.out.println("It's takes " + (finalT -start));
         
-        BufferedReaderClass br2 = new BufferedReaderClass("4_test_balanced_135000.csv");
+        BufferedReaderClass br2 = new BufferedReaderClass("4_test_balanced_45000.csv");
         double[] in = Test.information(br2.matrix, y);
         System.out.println("Precision: " + in[0]);
         System.out.println("Sensibilidad: " + in[1]);
